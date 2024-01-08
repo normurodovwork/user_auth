@@ -1,0 +1,8 @@
+alembic
+fastapi[all]
+psycopg2
+python-dotenv
+sqlalchemy
+fastapi-users[sqlalchemy]
+asyncpg
+pkg_resources
